@@ -1,5 +1,5 @@
 Flask==2.3.3
-keras==2.13.1
 Pillow==9.5.0
 numpy==1.23.5
 gunicorn==20.1.0
+requests==2.31.0
